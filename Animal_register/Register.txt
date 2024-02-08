@@ -1,0 +1,19 @@
+Class: Cat | Name: bars | Skills: meow gaf tap | Birthday: 17-7-2005
+Class: Cat | Name: bars | Skills: meow gaf tap | Birthday: 17-7-2009
+Class: Dog | Name: rexid | Skills: nichego kakat | Birthday: 17-6-2010
+Class: Horse | Name: loshadka | Skills: galop, whoa | Birthday: 26-7-2009
+Class: Donkey | Name: osel | Skills: nichego | Birthday: 15-6-2016
+Class: Dog | Name: doggy | Skills: fas | Birthday: 14-5-2014
+Class: Hamster | Name: homa | Skills: hrum hrum | Birthday: 14-9-2023
+Class: Camel | Name: splun | Skills: blow gop-gop | Birthday: 14-6-2019
+Class: Cat | Name: cat | Skills: plevok | Birthday: 4-4-2004
+Class: Dog | Name: dagestan | Skills: focha | Birthday: 5-4-2022
+Class: Horse | Name: Voronoy | Skills: Galop skok-skok | Birthday: 19-9-2019
+Class: Dog | Name: sparky | Skills: gav-gav | Birthday: 15-6-2009
+Class: Cat | Name: loverka | Skills: meow meow | Birthday: 14-5-2022
+Class: Camel | Name: verblud | Skills: laugh dance | Birthday: 15-6-2005
+Class: Donkey | Name: valet | Skills:  | Birthday: 4-5-2024
+Class: Cat | Name: basya | Skills: mur-mur | Birthday: 15-6-2008
+Class: Camel | Name: krasava | Skills: plevok | Birthday: 13-4-2001
+Class: Dog | Name: azer | Skills: gav-gav | Birthday: 14-9-2022
+Class: Cat | Name: Basya | Skills: mur havat' | Birthday: 16-8-2009
